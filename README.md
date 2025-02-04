@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **SQL, Tableau, PowerBI, Python**
 
-- 📫 How to reach me **aishwariya.alagesanus@gmail.com**
+- 📫 How to reach me **aishwariya1709@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/13R7ub-Go8nPAJGw0cG5x1N1UD-CiHKRb/view?usp=drive_link](https://drive.google.com/file/d/13R7ub-Go8nPAJGw0cG5x1N1UD-CiHKRb/view?usp=drive_link)
 
