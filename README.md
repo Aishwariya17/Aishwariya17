@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aishwariya1709@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13R7ub-Go8nPAJGw0cG5x1N1UD-CiHKRb/view?usp=drive_link](https://drive.google.com/file/d/13R7ub-Go8nPAJGw0cG5x1N1UD-CiHKRb/view?usp=drive_link)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/file/d/14zMD7lI5DBNLccLWjDAfy8buVh2JlHET/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
