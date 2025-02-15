@@ -28,6 +28,9 @@
   <a href="https://www.leetcode.com/aishwariya_alagesan" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
+  <a href="[https://public.tableau.com/app/profile/aishwariya.alagesan](https://public.tableau.com/app/profile/aishwariya.alagesan/vizzes)" target="_blank">
+    <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  </a>
 </p>
 
 ---
