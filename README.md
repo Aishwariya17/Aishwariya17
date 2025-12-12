@@ -9,7 +9,7 @@
 
 ### 🚀 About Me  
 
-- 🌱 I’m currently learning **Data Analytics Engineering**  
+- 🌱 I’m a Master's degree holder in **Data Analytics Engineering**  
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://aishwariya17.github.io/Portfolio_Aishwariya/)**  
 - 💬 Ask me about **SQL, Tableau, Power BI, Python**  
 - 📫 How to reach me: **aishwariya1709@gmail.com**  
