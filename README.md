@@ -75,17 +75,4 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishwariya17&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwariya17&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwariya17&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ✨ **Let's connect and collaborate!** 🚀  
