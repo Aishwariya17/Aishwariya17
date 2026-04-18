@@ -16,7 +16,6 @@
 - 🌱 Currently exploring: Databricks Data Engineer Associate, LangGraph for analytics workflows
 - 🌎 Based in Boston, open to relocation
 - 💬 Ask me about **dbt, Snowflake, Azure data engineering, or BI dashboards**
-- 📫 Reach me at **aishwariya1709@gmail.com**
 - 📄 [Portfolio](https://aishwariyaalagesan.lovable.app/) • [Resume](https://drive.google.com/file/d/1VxVAKFLACKHAchyBC-HYMFO9JgXBDcB5/view?usp=drive_link)
 
 ---
