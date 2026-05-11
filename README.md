@@ -94,14 +94,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-- **Azure Medallion Lakehouse** — End-to-end pipeline ingesting AdventureWorksLT2017 through ADF → ADLS Gen2 → Databricks (Bronze/Silver/Gold Delta) → Synapse Serverless SQL → Power BI
-- **myRide Demand Forecasting** — Built forecasting models and a CEO-facing dashboard to optimize fleet allocation
-- **Temenos Core Banking Analytics** — Migrated legacy ETL to Azure Data Factory, automated reporting with Airflow, owned KPIs for a core banking platform
-
----
-
 ### 📜 Certifications
 
 - Microsoft Certified: **Fabric Analytics Engineer Associate (DP-600)**
